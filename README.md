@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<h
-</head>
 <body>
     <div class="container">
         <h1>🎮 Axel Carmona's Portfolio </h1>
