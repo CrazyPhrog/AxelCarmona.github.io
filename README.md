@@ -10,27 +10,27 @@
         </div>
         <div class="project-card">
             <h3> Axel's Wordle (WPF, C#)</h3>
-            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/Wordle.png"></p>
+            <img src="assets/Wordle.png" alt="Wordle Game">
             <p>Just a classic game of Wordle as you try to guess the word.</p>
-            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/ClassDiagramWordle.png"></p>
+            <img src="assets/ClassDiagramWordle.png" alt="Class Diagram Wordle">
         </div>
         <div class="project-card">
             <h3> Coffee (C#, .NET)</h3>
-            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/Coffee.png"></p>
+            <img src="assets/Coffee.png" alt="Coffee Application">
             <p>An application that calculates the temperature of coffee and iced tea constantly </p>
-            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/CoffeeDiagram.png"></p>
+            <img src="assets/CoffeeDiagram.png" alt="Coffee Diagram">
         </div>
            <div class="project-card">
             <h3> Card Game Selector (C#, .NET)</h3>
             <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/CardGameSelector.png"></p>
             <p>A game with three games to choose from: Apple or Oranges, Highest Match, and Higher or Lower.</p>
-            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/Card%20Game%20Selector%20Diagram.png"></p>
+            <img src="assets/Card Game Selector Diagram.png" alt="Card Game Selector">
         </div>
            <div class="project-card">
             <h3> Event Handler (Stocks) (C#, .NET)</h3>
-            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/Stocks.png"></p>
+            <img src="assets/Stocks.png" alt="Stocks Event Handler">
             <p>An application that calculates the Stock Exchange, allowing the player to see how the Stock Exchange is constantly being changed </p>
-            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/StocksDiagram.png"></p>
+            <img src="assets/StocksDiagram.png" alt="Stocks Diagram">
         </div>
         <footer>
             © 2025 Axel Carmona | Programming Portfolio
