@@ -1,6 +1,4 @@
-<body>
-    <div class="container">
-        <h2>My Projects</h2>
+ <h2>My Projects</h2>
         <div class="project-card">
             <h3> Tower Defense | Project 3 (WPF, C#)</h3>
             <img src="assets/TowerDefense.png" alt="Tower Defense">
@@ -35,5 +33,4 @@
             © 2025 Axel Carmona | Programming Portfolio
         </footer>
     </div>
-</body>
 
