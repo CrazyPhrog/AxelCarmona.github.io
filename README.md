@@ -24,7 +24,9 @@
         </div>
            <div class="project-card">
             <h3> Card Game Selector (C#, .NET)</h3>
+            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/CardGameSelector.png"></p>
             <p>A game with three games to choose from: Apple or Oranges, Highest Match, and Higher or Lower.</p>
+            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/Card%20Game%20Selector%20Diagram.png"></p>
         </div>
            <div class="project-card">
             <h3> Creatures (Delegates and Interfaces) (C#, .NET)</h3>
