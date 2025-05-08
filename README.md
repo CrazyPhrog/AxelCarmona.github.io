@@ -1,6 +1,5 @@
 <body>
     <div class="container">
-        <h1>🎮 Axel Carmona's Portfolio </h1>
         <h2>My Projects</h2>
         <div class="project-card">
             <h3> Tower Defense | Project 3 (WPF, C#)</h3>
