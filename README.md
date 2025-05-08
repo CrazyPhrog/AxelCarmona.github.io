@@ -20,7 +20,9 @@
         </div>
         <div class="project-card">
             <h3> Coffee (C#, .NET)</h3>
-            <p>???</p>
+            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/Coffee.png"></p>
+            <p>An application that calculates the temperature of coffee and iced tea constantly </p>
+            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/CoffeeDiagram.png"></p>
         </div>
            <div class="project-card">
             <h3> Card Game Selector (C#, .NET)</h3>
@@ -29,8 +31,10 @@
             <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/Card%20Game%20Selector%20Diagram.png"></p>
         </div>
            <div class="project-card">
-            <h3> Creatures (Delegates and Interfaces) (C#, .NET)</h3>
-            <p>???</p>
+            <h3> Event Handler (Stocks) (C#, .NET)</h3>
+            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/Stocks.png"></p>
+            <p>An application that calculates the Stock Exchange, allowing the player to see how the Stock Exchange is constantly being changed </p>
+            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/StocksDiagram.png"></p>
         </div>
         <footer>
             © 2025 Axel Carmona | Programming Portfolio
