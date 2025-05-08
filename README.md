@@ -4,9 +4,9 @@
         <h2>My Projects</h2>
         <div class="project-card">
             <h3> Tower Defense | Project 3 (WPF, C#)</h3>
-            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/TowerDefense.png"></p>
+            <img src="asset/TowerDefense.png" alt="Tower Defense">
             <p>A game where you spawn towers to defend a pathway that enemies will be marching through while trying to reach the end of the path. A WPF Application</p>
-            <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/ClassDiagramTower.png"></p>
+            <img src="assets/ClassDiagramTower.png" alt="Class Diagram Tower">
         </div>
         <div class="project-card">
             <h3> Axel's Wordle (WPF, C#)</h3>
