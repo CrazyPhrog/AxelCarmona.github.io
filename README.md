@@ -21,7 +21,7 @@
             <h3> Card Game Selector (C#, .NET)</h3>
             <p align="center"><img src="https://github.com/CrazyPhrog/AxelCarmona.github.io/blob/main/CardGameSelector.png"></p>
             <p>A game with three games to choose from: Apple or Oranges, Highest Match, and Higher or Lower.</p>
-            <img src="assets/Card Game Selector Diagram.png" alt="Card Game Selector">
+            <img src="assets/CardGameSelectorDiagram.png" alt="Card Game Selector">
         </div>
            <div class="project-card">
             <h3> Event Handler (Stocks) (C#, .NET)</h3>
