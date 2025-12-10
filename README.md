@@ -7,6 +7,9 @@
 # Morse Code Website
 <img width="1919" height="826" alt="Screenshot 2025-10-07 220053" src="https://github.com/user-attachments/assets/52bdb2ec-e188-4084-8b15-52a1853af188" />
 
+# Climate Change Data Visualization
+<img width="1047" height="891" alt="Screenshot 2025-12-09 234517" src="https://github.com/user-attachments/assets/24770321-bac5-4e08-adb6-ba2de3c39679" />
+
 # 🏀 Chicago Bulls 2024-25 Player Stats Visualization
 
 A dynamic data visualization built with **HTML**, themed after the Chicago Bulls' iconic red-black design. Check the Stats of Players on the Chicago Bulls. These are the stats that are important in the game of Basketball that are always recorded for the players in the NBA:
