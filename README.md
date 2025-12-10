@@ -16,6 +16,8 @@ This is a Steam Player Count Data Visualization or Chart that displays data for 
 # 🕵️ Morse Code Website
 <img width="1919" height="826" alt="Screenshot 2025-10-07 220053" src="https://github.com/user-attachments/assets/52bdb2ec-e188-4084-8b15-52a1853af188" />
 
+This was one of my assignments I had a lot of fun working on, as I always wanted understand morse code which I think I do more with this. I always wondered how a translating website worked and the coding behind this one was interesting but made it seem simple. So I appreciated working on making a morse code translator, pretty straightforward.
+
 # ⛅ Climate Change Data Visualization
 
 This is a Climate Change Data Visualization, which displays Life Style Inputs which basically means it calculates how many miles you driven and the electricity usage to determine how much output of CO2 is being released from what we've done, and its a interesting assignment and a fun html. It is very interactable with sliders to scroll and I had a good time making this one.
