@@ -1,7 +1,9 @@
 # Chicago Data Graph
 <img width="907" height="620" alt="ChicagoData" src="https://github.com/user-attachments/assets/40c88b14-c852-4d5a-badd-ffa92338a967" />
+
 # Steam Player Count Chart
 <img width="1269" height="758" alt="Screenshot 2025-12-09 215843" src="https://github.com/user-attachments/assets/7bede938-02dc-4517-be8d-876ca499b814" />
+
 # Morse Code Website
 <img width="1919" height="826" alt="Screenshot 2025-10-07 220053" src="https://github.com/user-attachments/assets/52bdb2ec-e188-4084-8b15-52a1853af188" />
 
